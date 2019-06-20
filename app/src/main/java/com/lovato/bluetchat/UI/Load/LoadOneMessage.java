@@ -1,6 +1,6 @@
 package com.lovato.bluetchat.UI.Load;
 
-public class LoadOneMessage {
+
     public class LoadOneMessage implements Nodo {
 
         Nodo mNext;
@@ -29,4 +29,4 @@ public class LoadOneMessage {
         }
 
     }
-}
+

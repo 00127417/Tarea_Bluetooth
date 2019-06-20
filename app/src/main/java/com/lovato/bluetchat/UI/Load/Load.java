@@ -1,8 +1,6 @@
 package com.lovato.bluetchat.UI.Load;
 
 public class Load {
-        // Grabbing the native values from Android's native logging facilities,
-        // to make for easy migration and interop.
         public static final int NONE = -1;
         public static final int VERBOSE = android.util.Log.VERBOSE;
         public static final int DEBUG = android.util.Log.DEBUG;
@@ -11,7 +9,6 @@ public class Load {
         public static final int ERROR = android.util.Log.ERROR;
         public static final int ASSERT = android.util.Log.ASSERT;
 
-        // Stores the beginning of the Nodo topology.
         private static Nodo mNodo;
 
 

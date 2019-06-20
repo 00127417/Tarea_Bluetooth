@@ -19,6 +19,8 @@ import android.widget.TextView;
 import com.lovato.bluetchat.R;
 import com.lovato.bluetchat.UI.Load.Load;
 
+import java.util.Set;
+
 public class bluetoothAdapter extends Activity {
 
 

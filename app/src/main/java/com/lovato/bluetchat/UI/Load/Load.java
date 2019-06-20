@@ -1,7 +1,6 @@
 package com.lovato.bluetchat.UI.Load;
 
 public class Load {
-    {
         // Grabbing the native values from Android's native logging facilities,
         // to make for easy migration and interop.
         public static final int NONE = -1;
@@ -99,5 +98,5 @@ public class Load {
         public static void wtf(String tag, Throwable tr) {
         wtf(tag, null, tr);
     }
-    }
+
 }
